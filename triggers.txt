@@ -1,0 +1,10 @@
+# trigger file - if you've done through part 11 but no stories are popping
+# up, you should edit this file to contain triggers that will fire on current
+# news stories!
+# Problem 11: 
+
+t1 TITLE planet
+t2 SUMMARY CIA
+t3 PHRASE blast devastates
+
+ADD t1 t2 t3
