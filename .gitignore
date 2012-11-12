@@ -1,0 +1,11 @@
+# Python bytecode
+*.pyc
+
+# Test suite used in building the project
+ps6_test.py
+
+# Backup for text files
+*~
+
+# ?
+.DS_Store
